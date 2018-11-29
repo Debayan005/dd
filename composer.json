@@ -1,0 +1,8 @@
+{
+    "name": "debay/dd",
+    "type": "project",
+    "require": {
+        "silex/silex": "~1.1",
+        "facebook/graph-sdk" : "~5.0"
+    }
+}
