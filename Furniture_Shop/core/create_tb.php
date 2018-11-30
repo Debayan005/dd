@@ -1,5 +1,5 @@
 <?php
-include './Furniture_Shop/core/init.php';
+// include './Furniture_Shop/core/init.php';
 echo $db;
 try{
 $s="create table brands (id int(10) not null Primary key,brand varchar(30))";
