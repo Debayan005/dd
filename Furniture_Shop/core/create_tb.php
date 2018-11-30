@@ -1,5 +1,5 @@
 <?php
-// require './Furniture_Shop/core/init.php';
+include './Furniture_Shop/core/init.php';
 echo $db;
 // $s="create table brands (id int(10) not null Primary key,brand varchar(30))";
 // $s1="create table catagory(id int(10) foreign key(id) references brand(id),catagory varchar(30) parent int(10))";
